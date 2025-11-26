@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: immortalwrt-mt798x-6.6-default-power
+name: 2410
 
 on:
   repository_dispatch:
